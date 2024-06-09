@@ -51,6 +51,7 @@ npm start
 ```
 
 ## Additional Information
+[Download ToonTales Documentation](Presented by  A Chandra Kishan Singha Mahima Yadav.pdf)
 
 For a seamless experience, ensure that all dependencies are properly installed and configured. For any assistance, refer to the detailed documentation provided in the project repository.
 
